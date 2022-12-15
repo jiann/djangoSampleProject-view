@@ -1,4 +1,4 @@
-# djangoSampleProject
+# djangoSampleProject-view
 django Project from Coursera IBM
 
 **Setup environment**
